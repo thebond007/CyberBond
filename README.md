@@ -2,6 +2,8 @@
 
 A cybersecurity and digital forensics assistant built with Streamlit and LangChain. CyberBond answers questions from a private knowledge base of course notes (RAG) and calls forensic tools when the task needs one.
 
+https://cyberbond-7v2te4eqyipfz7vxoqq9zq.streamlit.app/
+
 ## Features
 
 - **RAG over your notes:** PDF, DOCX, TXT and MD files are chunked, embedded locally and stored in Chroma. Answers cite the source file and page.
@@ -79,4 +81,4 @@ python test_agent.py   # full agent behaviour
 ## Project structure
 
 ```
-app.py          Streamlit
+app.py          Streamlits
